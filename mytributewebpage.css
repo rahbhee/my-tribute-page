@@ -1,0 +1,40 @@
+ body {
+text-align: center;
+float: right;
+background-color: white;
+line-height: 2em;
+justify-content: space-between;
+margin: 10px 10px 10px 10px ;
+border: 1px solid  #ffb3ff;
+
+color: #13001a;
+font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+h1 {
+    font-size: 3em;
+}
+.centered {
+   background-color: #ffccff;
+   padding-top: 20px;
+   font-weight: 1em;
+}
+span {
+    font-weight: bold;
+}
+.imgdiv {
+   background-color: #ffe6ff; 
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    margin: 0 300px 0 300px;
+    
+}
+ footer {
+     margin-top: 50px;
+ }   
+
+.content {
+    font-size: 1em;
+}
